@@ -1,4 +1,4 @@
-# Test Calculating Angular Velocity using Quaternion Differentiation
+# Validating the calculation of angular velocity given quaternions though SLERP
 
 ## Result Comparison
 
